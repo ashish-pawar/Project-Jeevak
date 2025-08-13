@@ -10,9 +10,6 @@ AI Powered Decentralised Distributed Marketplace for Healthcare Industry
 
 3. Stake Holders : Patients, Healthcare Providers, Healthcare Organizations, Insurers, Pharmaceutical Companies, Government
 
-We are creating a transparent, efficient, effective, fare, reasonable and secure ecosystem for everyone and everything in healthcare around the world. Natural outcome is a global healthcare marketplace. 
-
-.
-
+We are creating a transparent, efficient, effective, fare, reasonable and secure ecosystem for everyone and everything in healthcare around the world. Natural outcome is a global healthcare marketplace.
 
 
