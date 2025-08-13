@@ -8,7 +8,7 @@ AI Powered Decentralised Distributed Marketplace for Healthcare Industry
 2. DLT Used : Hedera Hashgrapgh
 
 
-3. End Users : Patients, Healthcare Providers, Healthcare Organizations, Insurers, Pharmaceutical Companies, Government
+3. Stake Holders : Patients, Healthcare Providers, Healthcare Organizations, Insurers, Pharmaceutical Companies, Government
 
 
 
