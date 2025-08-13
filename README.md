@@ -10,5 +10,7 @@ AI Powered Decentralised Distributed Marketplace for Healthcare Industry
 
 3. Stake Holders : Patients, Healthcare Providers, Healthcare Organizations, Insurers, Pharmaceutical Companies, Government
 
+.
+
 
 
